@@ -1,0 +1,32 @@
+C:\Users\User\Desktop\Al-Ameen Code Challenge\obj\Debug\net5.0\Al-Ameen Code Challenge.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Al-Ameen Code Challenge\obj\Debug\net5.0\Al-Ameen Code Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Al-Ameen Code Challenge\obj\Debug\net5.0\Al-Ameen Code Challenge.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Al-Ameen Code Challenge\obj\Debug\net5.0\Al-Ameen Code Challenge.AssemblyInfo.cs
+C:\Users\User\Desktop\Al-Ameen Code Challenge\obj\Debug\net5.0\Al-Ameen Code Challenge.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Al-Ameen Code Challenge\bin\Debug\net5.0\Al-Ameen Code Challenge.exe
+C:\Users\User\Desktop\Al-Ameen Code Challenge\bin\Debug\net5.0\Al-Ameen Code Challenge.deps.json
+C:\Users\User\Desktop\Al-Ameen Code Challenge\bin\Debug\net5.0\Al-Ameen Code Challenge.runtimeconfig.json
+C:\Users\User\Desktop\Al-Ameen Code Challenge\bin\Debug\net5.0\Al-Ameen Code Challenge.runtimeconfig.dev.json
+C:\Users\User\Desktop\Al-Ameen Code Challenge\bin\Debug\net5.0\Al-Ameen Code Challenge.dll
+C:\Users\User\Desktop\Al-Ameen Code Challenge\bin\Debug\net5.0\ref\Al-Ameen Code Challenge.dll
+C:\Users\User\Desktop\Al-Ameen Code Challenge\bin\Debug\net5.0\Al-Ameen Code Challenge.pdb
+C:\Users\User\Desktop\Al-Ameen Code Challenge\obj\Debug\net5.0\Al-Ameen Code Challenge.dll
+C:\Users\User\Desktop\Al-Ameen Code Challenge\obj\Debug\net5.0\ref\Al-Ameen Code Challenge.dll
+C:\Users\User\Desktop\Al-Ameen Code Challenge\obj\Debug\net5.0\Al-Ameen Code Challenge.pdb
+C:\Users\User\Desktop\Al-Ameen Code Challenge\obj\Debug\net5.0\Al-Ameen Code Challenge.genruntimeconfig.cache
+C:\Users\User\Desktop\Code Challenge\1\bin\Debug\net5.0\Al-Ameen Code Challenge.exe
+C:\Users\User\Desktop\Code Challenge\1\bin\Debug\net5.0\Al-Ameen Code Challenge.deps.json
+C:\Users\User\Desktop\Code Challenge\1\bin\Debug\net5.0\Al-Ameen Code Challenge.runtimeconfig.json
+C:\Users\User\Desktop\Code Challenge\1\bin\Debug\net5.0\Al-Ameen Code Challenge.runtimeconfig.dev.json
+C:\Users\User\Desktop\Code Challenge\1\bin\Debug\net5.0\Al-Ameen Code Challenge.dll
+C:\Users\User\Desktop\Code Challenge\1\bin\Debug\net5.0\ref\Al-Ameen Code Challenge.dll
+C:\Users\User\Desktop\Code Challenge\1\bin\Debug\net5.0\Al-Ameen Code Challenge.pdb
+C:\Users\User\Desktop\Code Challenge\1\obj\Debug\net5.0\Al-Ameen Code Challenge.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Code Challenge\1\obj\Debug\net5.0\Al-Ameen Code Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Code Challenge\1\obj\Debug\net5.0\Al-Ameen Code Challenge.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Code Challenge\1\obj\Debug\net5.0\Al-Ameen Code Challenge.AssemblyInfo.cs
+C:\Users\User\Desktop\Code Challenge\1\obj\Debug\net5.0\Al-Ameen Code Challenge.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Code Challenge\1\obj\Debug\net5.0\Al-Ameen Code Challenge.dll
+C:\Users\User\Desktop\Code Challenge\1\obj\Debug\net5.0\ref\Al-Ameen Code Challenge.dll
+C:\Users\User\Desktop\Code Challenge\1\obj\Debug\net5.0\Al-Ameen Code Challenge.pdb
+C:\Users\User\Desktop\Code Challenge\1\obj\Debug\net5.0\Al-Ameen Code Challenge.genruntimeconfig.cache
