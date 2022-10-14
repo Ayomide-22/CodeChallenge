@@ -29,6 +29,8 @@ namespace _2_
             }
             else
             {
+                arr=null;
+                Console.Write(arr);
                 Console.WriteLine("There aren't any three consecutive numbers that add up to "+num);
             }
         }
